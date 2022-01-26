@@ -1,5 +1,7 @@
 # caddy-builder
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/1add5fa8-f887-4809-89f7-21006b69dbee.svg?orgId=666444378491)](https://app.soluble.cloud/repos/details/github.com/ayoinc/caddy-builder?orgId=666444378491)  
+
 [![Build Status](https://travis-ci.org/stefanprodan/caddy-builder.svg?branch=master)](https://travis-ci.org/stefanprodan/caddy-builder)
 
 Build Caddy with plugins from source using Docker multi-build
